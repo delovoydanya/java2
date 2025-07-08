@@ -14,4 +14,8 @@ public class Main {
             System.out.println("i = " + i);
         }
     }
+        public int summ(int first, int second) {
+            return first + second;
+        }
+
 }
