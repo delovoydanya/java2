@@ -83,6 +83,8 @@ class master {
         System.out.print(varInt2 - varDouble);
         System.out.print(" USD");
 
+
+
     }
 
 
